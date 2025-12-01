@@ -1,0 +1,5 @@
+{
+  "name": "CloudLog AI Analyst",
+  "description": "A dashboard that uses Gemini to parse, visualize, and analyze Google Cloud logs for detailed process reporting.",
+  "requestFramePermissions": []
+}
